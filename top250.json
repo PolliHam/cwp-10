@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Американская история Х",
+    "rating": "8.486",
+    "year": 1998,
+    "budget": 20000000,
+    "gross": 23875127,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_382.jpg",
+    "position": 1
+  },
+  {
+    "id": 2,
+    "title": "ВАЛЛ-И",
+    "rating": "8.484",
+    "year": 2008,
+    "budget": 180000000,
+    "gross": 521268237,
+    "poster": "https://www.kinopoisk.ru/images/film_big/279102.jpg",
+    "position": 2
+  },
+  {
+    "id": 3,
+    "title": "Большой куш",
+    "rating": "8.484",
+    "year": 2000,
+    "budget": 10000000,
+    "gross": 83557872,
+    "poster": "https://www.kinopoisk.ru/images/film_big/526.jpg",
+    "position": 3
+  },
+  {
+    "id": 4,
+    "title": "Остров проклятых",
+    "rating": "8.482",
+    "year": 2009,
+    "budget": 80000000,
+    "gross": 294804195,
+    "poster": "https://www.kinopoisk.ru/images/film_big/397667.jpg",
+    "position": 4
+  },
+  {
+    "id": 5,
+    "title": "Джентельмены удачи",
+    "rating": "8.470",
+    "year": 1971,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://www.kinopoisk.ru/images/film_big/44386.jpg",
+    "position": 5
+  },
+  {
+    "id": 6,
+    "title": "Пираты Карибского моря: Проклятие Черной жемчужины",
+    "rating": "8.469",
+    "year": 2003,
+    "budget": 140000000,
+    "gross": 305413918,
+    "poster": "https://www.kinopoisk.ru/images/film_big/4374.jpg",
+    "position": 6
+  },
+  {
+    "id": 7,
+    "title": "Темный рыцарь",
+    "rating": "8.468",
+    "year": 2008,
+    "budget": 185000000,
+    "gross": 1004558444,
+    "poster": "https://www.kinopoisk.ru/images/film_big/111543.jpg",
+    "position": 7
+  },
+  {
+    "id": 8,
+    "title": "Пролетая над гнездом кукушки",
+    "rating": "8.467",
+    "year": 1975,
+    "budget": 3000000,
+    "gross": 108981275,
+    "poster": "https://www.kinopoisk.ru/images/film_big/336.jpg",
+    "position": 8
+  },
+  {
+    "id": 9,
+    "title": "Пробуждение",
+    "rating": "8.465",
+    "year": 1990,
+    "budget": 0,
+    "gross": 52096475,
+    "poster": "https://www.kinopoisk.ru/images/film_big/2950.jpg",
+    "position": 9
+  },
+  {
+    "id": 10,
+    "title": "Хористы",
+    "rating": "8.459",
+    "year": 2004,
+    "budget": 5500000,
+    "gross": 83580170,
+    "poster": "https://www.kinopoisk.ru/images/film_big/51481.jpg",
+    "position": 10
+  }
+]
